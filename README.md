@@ -20,7 +20,7 @@ Ensure you have the following installed:
 ### Setting Up the Project
 Clone the repository and navigate to the project directory:
 ```sh
- git clone https://github.com/lazycodebaker/opencv_yolo_tracking.git
+ git clone https://github.com/orbitalisvoid/yolo_tracking.git
  cd object-detection-rust
 ```
 
